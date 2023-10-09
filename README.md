@@ -1,5 +1,8 @@
-# RS1
+# picking-mobile-robot-rs1
+## This is a robotic project serving the Robotics Studio 1 subject. 
+===================================
 
-Spring 2023-UTS-13631092
 
-This project is for the turtlebot warehouse SLAM assignment.
+This is a meta-package that contains multiple packages regarding the components of the Warehouse Picking Robot.
+
+Please [create individual packages](http://wiki.ros.org/ROS/Tutorials/CreatingPackage) in this directory (the same level of this README.md file).
